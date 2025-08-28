@@ -62,8 +62,7 @@
 
 <details>
   <summary><h2>🎓 Образование и стажировка</h2></summary>
-  <img src="https://github.com/rvt3st/rvt3st/blob/main/img/0b764ef2b9c.png?raw=true" title="Сертификат" alt="Сертификат" height="450"/>
-  <img src="https://github.com/rvt3st/rvt3st/blob/main/img/roman-lima.png?raw=true" title="Сертификат" alt="Сертификат" height="450"/>
+  <img src="https://github.com/rvt3st/rvt3st/blob/main/img/0b764ef2b9c.png?raw=true" title="Сертификат" alt="Сертификат" height="400"/> <img src="https://github.com/rvt3st/rvt3st/blob/main/img/roman-lima.png?raw=true" title="Сертификат" alt="Сертификат" height="400"/>
 </details>
 
 <details>
