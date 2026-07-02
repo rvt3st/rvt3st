@@ -3,11 +3,6 @@
 Также имею базовое представление об автоматизации с использованием Cypress, Pytest и Selenium.
 
 <details>
-  <summary><h2>📊 Статистика</h2></summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rvt3st&show_icons=true&locale=en&layout=compact&theme=shadow_blue"/>
-</details>
-
-<details>
   <summary><h2>🛠️ Технологии и инструменты</h2></summary>
   <table>
 		<tr>
